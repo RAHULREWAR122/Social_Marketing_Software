@@ -272,6 +272,9 @@ export default function Home() {
             <Link href="/register" className="hover:text-zinc-950 dark:hover:text-white">
               Register
             </Link>
+            <Link href="/privacy-policy" className="hover:text-zinc-950 dark:hover:text-white">
+              Privacy Policy
+            </Link>
           </div>
         </div>
       </footer>
